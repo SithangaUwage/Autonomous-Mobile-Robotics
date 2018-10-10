@@ -5,4 +5,5 @@ If the cones are at the robots sight, the robot goes towards the cones and spins
 
 The project is written in python and uses tools such as ROS Programming, Sypder, Gazebo and Turtlebot robot.
 
+This image shows an example of one of the simulated rooms that the Turtlebot will patrol in, however does not include the coloured cones.
 ![alt text](/Images/Github.PNG)
